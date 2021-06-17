@@ -47,5 +47,3 @@ En utilisant l'API ouverte de la NASA : Image astronomique du jour (APOD), nous 
 - [API NASA](https://api.nasa.gov/)
 - [RapidAPI](https://rapidapi.com)
 - [Créez une application Stellar React + NASA en 10 minutes](https://scotch.io/tutorials/make-a-stellar-react-nasa-app-in-10-minutes#toc-what-we-will-be-building)
-- [Profil de l'API de la NASA](https://rapidapi.com/blog/nasa-api-profile-explore-the-cosmos-with-code/)
-
